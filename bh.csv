@@ -1,0 +1,31 @@
+Name,Street,Location,Price,Crime Rate,Person,Bed,Bath,Latitude,Longitude
+Luna BH,Luna Street,Iloilo City Proper,"2,000",1.1,2,1,Shared,10.70078,122.56246
+Central Park BH,Delgado Street,Iloilo City Proper,"2,500",1.15,3,2,Shared,10.69776,122.565292
+City Haven BH,Mabini Street,Iloilo City Proper,"2,300",1.05,2,1,Shared,10.69699,122.56475
+Sunshine BH,Rizal Street,Iloilo City Proper,"2,800",1.2,4,3,Shared,10.70182,122.57462
+Plaza Prime BH,General Luna Street,Iloilo City Proper,"3,000",1.25,3,2,Shared,10.70078,122.562462
+JRM Boarding House,"431 A Lopez Jaena St, old railroad",Jaro,3000,1.13,2,2,Shared,10.72769,122.55564
+VJ's Boarding House,152 Lopez Jaena St,Jaro,"3,500",1.2,4,4,Shared,10.72769,122.55564
+Vila Residencia,E. Lopez St,Jaro,4000,1.16,2,2,Private,10.74389,122.56732
+Longno Boarding House,Villa Matilde,Jaro,2500,1.35,2,2,Shared,10.69746,122.5624
+JR Boarding House,36 A D.B. Ledesma St,Jaro,4500,1.1,3,3,Shared,10.7362,122.55708
+MJ's Boarding House,"Ticud, La Paz, Iloilo City",Lapaz,1500,1.1,4,4,Shared,10.71679,122.58053
+AJ's Boarding House,"Zone 3 Brgy. Baldoza, La Paz, Iloilo City",Lapaz,"2,000",1.2,3,3,Shared,10.75904,122.32826
+Sheri Ann's Apartment,"San Juan, Ledesco City Homes, La Paz, Iloilo City",Lapaz,8000,1,1,1,Private,10.7209,122.57987
+Aguirre's BH,"La Paz Norte, Iloilo City",Lapaz,"2,000",1.3,2,2,Shared,10.71426,122.57536
+Cordero's Boarding House,"243 Mirasol Subdivision ,Nabitasan",Lapaz,8500,1,2,2,Shared,10.70511,122.56774
+Seaside BH,Sto. Niño Street,Arevalo,"2,300",1.1,3,2,Shared,10.68188,122.50738
+Garden View BH,Coastal Road,Arevalo,"2,500",1.15,3,2,Shared,10.75619,122.59208
+Villa Verde BH,Yulo Drive,Arevalo,"2,800",1.08,4,3,Shared,10.68375,122.52013
+Villa Serenity BH,Villa San Pedro St.,Arevalo,"4,000",1.05,3,3,Private,10.70394,122.5517
+Seaside Retreat BH,Villa Beach Road,Arevalo,"4,500",1.07,3,3,Private,10.67989,122.50857
+Riverside BH,Lapuz Norte Road,Lapuz,"3,200",1.1,1,1,Private,10.69827,122.58212
+Lapuz Prime BH,Jalandoni Street,Lapuz,"3,800",1.08,3,3,Private,10.70179,122.57663
+Harbour Haven BH,Rizal Road,Lapuz,"4,000",1.12,3,2,Private,10.70656,122.57215
+Bridgeview BH,Jalandoni Street,Lapuz,"2,800",1.08,4,3,Shared,10.70179,122.57663
+Cozy Lapuz BH,Burgos Street,Lapuz,"2,300",1.09,3,2,Shared,10.70179,122.57309
+Raingel Boarding House,Mirasol Street,Mandurriao,3000,1.06,2,2,Private,10.71699,122.53995
+R & R Boarding House,Onate De Leon Street,Mandurriao,"3,500",1.1,2,2,Private,10.71525,122.53578
+Bonheur Boarding House,Q. Abeto Street,Mandurriao,"2,700",1.2,1,1,Shared,10.71806,122.54201
+Boarding House,1 De Leon Street,Mandurriao,"4,000",1.02,2,2,Private,10.71636,122.53456
+Rapada's Boarding House,Mandurriao,Mandurriao,"2,500",1.5,1,1,Shared,10.72163,122.53939
